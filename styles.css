@@ -1,0 +1,32 @@
+body{
+    background-color:#c0b6e7;
+}
+h1{
+    text-shadow: 2px 2px #f9e488;
+    text-align: center;}
+h2,h3,h4,p{
+    text-align: center
+}
+img{
+    width: auto;
+    height: auto;
+    border: 20px #
+    border-style: solid ;
+    border-radius: 20px;
+//this is a test to see how stable typing is on XFCE- pass
+}
+.column{
+    float: left;
+    float: 35%%;
+    padding-right: 80px;
+    padding-left: 40px;
+    height: 50%;
+    border-radius: 15px;
+}
+.row {
+    display: flex;
+  }
+ul{
+    text-size-adjust: 200%;
+}
+
